@@ -8,3 +8,7 @@ Minesweeper clone in pygame
 - pygame
 - random
 - sys
+- math
+- time
+- os
+- string
